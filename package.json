@@ -1,0 +1,17 @@
+{
+  "name": "snippets-mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose tutorial",
+  "main": "snippets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mongoose"
+  ],
+  "author": "Patrick Ford",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.7.1"
+  }
+}
